@@ -3,31 +3,31 @@ class Blog_model{
     private $blog = [
         [
             "jurusan" => "Teknik Konstruksi dan Perumahan (TKP)",
-            "ket" => "Salah satu kompetensi keahlian yang berhubungan dengan pembangunan perumahan, mulai dari perencanaan, pelaksanaan, dan evaluasi kegiatan konstruksi."
+            "ket" => "Secara umum Teknik Konstruksi dan Perumahan atau biasa disebut TKP mempelajari ilmu tentang konstruksi bangunan dan furniture perkayuan, pengukuran tanah, rancangan anggaran biaya (RAB) konstruksi bangunan, laporan pelaksaan konstruksi bangunan, perencanaan bisnis konstruksi dan properti, pelaksanaan dan pengawasan konstruksi, dll."
         ],
         [
             "jurusan" => "Desain Permodelan dan Informasi Bangunan (DPIB)",
-            "ket" => "Salah satu kompetensi keahlian yang mempelajari tentang perencanaan bangunan, pelaksanaan pembuatan gedung dan perbaikan gedung."
+            "ket" => "Secara garis besar yang dipelajari di DESAIN PEMODELAN DAN INFORMASI BANGUNAN (DPIB) adalah bagaimana cara menggambar bangunan, menghitung Rencana Anggaran Biaya Bangunan, menghitung kekuatan konstruksi bangunan, menggamabar Eksterior dan Interior bangunan, bagaimana metode untuk melaksanakan pekerjaan bangunan, dan hal-hal lain yang berkaitan dengan bangunan."
         ],
         [
             "jurusan" => "Teknik Pemanasan, Tata Udara dan Pendingin (TPTUP)",
-            "ket" => "Salah satu kompetensi keahlian yang mempelajari tentang pengendalian suhu, kelembaban, dan kebersihan udara pada suatu ruangan."
+            "ket" => "Teknik pendinginan umumnya digunakan pada peralatan rumah tangga seperti Kulkas dan AC Split, pada bidang yang lebih luas digunakan untuk kegiatan pendinginan komersial dan industrial seperti pengawetan makanan, pengaturan temperatur di gedung, gudang, pabrik dan lain-lain."
         ],
         [
             "jurusan" => "Teknik Pengelasan (TP)",
-            "ket" => "Salah satu kompetensi keahlian yang mempelajari satu bidang kerja saja yaitu bagaimana cara untuk mengelas yang baik, dan teori tentang apa-apa saja bahan untuk proses pengelasan."
+            "ket" => "Pengelasan (welding) adalah salah satu teknik penyambungan logam dengan cara mencairkan sebagian logam induk dan logam pengisi dengan atau tanpa tekanan dan dengan atau tanpa logam penambah dan menghasilkan sambungan yang kontinu. Lingkup teknik pengelasan dalam kontruksi sangat luas, meliputi perkapalan, jembatan, rangka baja, bejana tekan, pipa pesat, pipa saluran dan sebagainya."
         ],
         [
             "jurusan" => "Rekayasa Perangkat Lunak (RPL)",
-            "ket" => "Salah satu kompetensi keahlian dalam bidang Teknologi Komputer dan Informatika yang secara khusus mempelajari tentang pemrograman komputer."
+            "ket" => "RPL adalah singkatan dari Rekayasa Perangkat Lunak dan merupakan sebuah jurusan yang ada di Sekolah Menengah Kejuruan (SMK). RPL adalah sebuah jurusan yang mempelajari dan mendalami semua cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, manajemen organisasi pengembangan perangkat lunak dan manajemen kualitas."
         ],
         [
             "jurusan" => "Kuliner",
-            "ket" => "Ilmu pengetahuan mengenai seni mengolah makanan, mulai dari persiapan, pengolahan, hingga cara menghidangkan makanan."
+            "ket" => "Jurusan Bisnis Kuliner merupakan program studi yang menggabungkan ilmu bisnis dengan kuliner dengan fokus pada manajemen bisnis di bidang makanan. Jurusan bisnis kuliner memberikan pengetahuan, keahlian, pengalaman, dan karakter yang diperlukan mahasiswa untuk menjadi Entrepreneur sukses di bidang kuliner."
         ],
         [
             "jurusan" => "Akuntansi",
-            "ket" => "Suatu kegiatan mempelajari ekonomi yang terdiri dari proses pencatatan, peringkasan, klarifikasi, pengolahan, dan penyajian data transaksi dan berbagai kegiatan yang berhubungan dengan keuangan."
+            "ket" => "Jurusan akuntansi ialah belajar cara memelihara keuangan. Ini mempersiapkan siswa untuk menjadi akuntan dengan mengajar mereka tentang prinsip-prinsip akuntansi seperti audit, pelaporan, penganggaran dan peraturan pajak."
         ],
         
     ];
